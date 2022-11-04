@@ -1,0 +1,2 @@
+# L Tracker 
+An automation tool for tracking job applications. Plan is to use some gsuite apis along with maybe twillo for letting the given user about an update like a phone call or review. The L itself is when you get ghosted
